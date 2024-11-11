@@ -173,8 +173,9 @@ Reg no: 212223240185
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/bc346345-bdaa-4a18-b071-635b53e847ed)
+![Screenshot 2024-11-11 080925](https://github.com/user-attachments/assets/a3e83a4f-468d-49f9-9db0-e76346c8dc74)
 
+![Screenshot 2024-11-11 080945](https://github.com/user-attachments/assets/6a559b15-b5c0-4391-8d8a-4e2e49ca5aeb)
 
 
 ## RESULT
